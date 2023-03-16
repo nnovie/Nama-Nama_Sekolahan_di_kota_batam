@@ -544,4 +544,10 @@
         <td>Jln. Merbau No.1, KELURAHAN KARAS, KECAMATAN GALANG, BATAM, Karas, Kec. Galang, Kota Batam, Kepulauan Riau, dengan kode pos 29486.</td>
         <td>081372100958</td>
     </tr>
+    <tr>
+        <td>90</td>
+        <td>Sekolah SMK IBNU SINA BATAM</td>
+        <td>Jl. Teuku Umar, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam, Kepulauan Riau 29444</td>
+        <td>(0778) 424246</td>
+    </tr>
 </table>
