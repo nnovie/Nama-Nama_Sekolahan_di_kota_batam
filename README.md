@@ -4,6 +4,8 @@
     <title>Nama-Nama sekolahan</title>
 </html>
 <table border="1">
+            <tr style="background-color: limegreen;"
+
     <tr>
         <td>No.</td>
         <td>Nama-Nama sekolahan</td>
