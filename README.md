@@ -4,7 +4,6 @@
     <title>Nama-Nama sekolahan</title>
 </html>
 <table border="1">
-            <tr style="background-color: limegreen;"
 
     <tr>
         <td>No.</td>
@@ -553,3 +552,5 @@
         <td>(0778) 424246</td>
     </tr>
 </table>
+</body>
+</html>
