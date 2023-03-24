@@ -7,7 +7,7 @@
     <tr>
         <td>No.</td>
         <td>Nama-Nama sekolahan</td>
-        <td>Wilayah</td>
+        <td><br>Wilayah</td>
         <td>Nomor Telepon</td>
     </tr>
     <tr>
